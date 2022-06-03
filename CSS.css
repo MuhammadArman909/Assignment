@@ -1,0 +1,21 @@
+
+body { background-color:rgb(32, 31, 31)}
+
+.main {	
+	
+	background-color: #423e3e;
+	position: fixed;
+	top:	150px;
+	width: 1500px;
+	left: 5%;
+	height: 800px;
+	
+	}
+
+    .text {
+        size: 100px;
+        position: absolute;
+        left: 700px;
+        top:  100px;
+    
+        }
